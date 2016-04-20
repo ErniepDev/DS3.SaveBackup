@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DS3.SaveBackup.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SaveFileSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%appdata%\DarkSoulsIII</Value>
+    </Setting>
+    <Setting Name="SaveFileDestination" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%appdata%\DarkSoulsIII\SaveBackup</Value>
+    </Setting>
+    <Setting Name="SaveFileTimeFrequency" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ProcessToCheck" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DarkSouls</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
